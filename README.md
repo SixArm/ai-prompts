@@ -8,6 +8,53 @@ Many more prompt ideas from the internet:
 
 - [Creative Prompt Library](https://rehanrc.com/Interesting_Prompt_Use_Cases_2/index.html)
 
+## Prompt instruction length
+
+<study: https://arxiv.org/pdf/2507.11538>
+
+This study tested AI model performance with increasing instruction count: 
+
+- 10, 50, 150, 300, and 500 simultaneous instructions in prompts.
+
+Performance breakdown by instruction count:
+
+- 1-10 instructions: All models handle well
+
+- 10-30 instructions: Most models perform well
+
+- 50-100 instructions: Only frontier models maintain high accuracy
+
+- 150+ instructions: Even top models drop to ~50-70% accuracy
+
+Model recommendations for complex tasks:
+
+- Best for 150+ instructions: Gemini 2.5 Pro, GPT-o3
+
+- Solid for 50-100 instructions: GPT-4.5-preview, Claude 4 Opus, Claude 3.7 Sonnet, Grok 3
+
+- Avoid for complex multi-task prompts: GPT-4o, GPT-4.1, Claude 3.5 Sonnet, LLaMA models
+
+Other findings:
+
+- Primacy bias: Models remember early instructions better than later ones
+
+- Omission: Models skip requirements they can't handle rather than getting them wrong
+
+- Reasoning: Reasoning models & modes help significantly
+
+- Context window ≠ instruction capacity: Large context doesn't mean more simultaneous instruction handling
+
+Implications:
+
+- Chain prompts with fewer instructions instead of mega-prompts
+
+- Put critical requirements first in your prompt
+
+- Use reasoning models for tasks with 50+ instructions
+
+- For enterprise or complex workflows (150+ instructions), stick to Gemini 2.5 Pro or GPT-o3
+
+
 ## General help prompts
 
 **Inspiration**:
