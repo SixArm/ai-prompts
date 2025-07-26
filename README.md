@@ -2,7 +2,23 @@
 
 This is a work in progress to help us learn about prompts for AI.
 
-See specific directories for prompts and explanations.
+Broad prompts:
+
+- [Critical Thinking Stages](prompts/critical-thinking-stages/)
+- [Natural Writing Style](prompts/natural-writing-style/)
+
+See specific directories for prompts and explanations:
+
+- [Company Overview Due Diligence Summary](prompts/company-overview-due-diligence-summary/)
+- [Competitive Analysis Matrix](prompts/competitive-analysis-matrix/)
+- [Content Optimization Engine](prompts/content-optimization-engine/)
+- [Customer Insight Generator](prompts/customer-insight-generator/)
+- [Enterprise B2B Conversion](prompts/enterprise-b2b-conversion/)
+- [Legal Document Analyzer](prompts/legal-document-analyzer/)
+- [Market Research Deep Dive](prompts/market-research-deep-dive/)
+- [Process Automation Blueprint](prompts/process-automation-blueprint/)
+- [Project Management Accelerator](prompts/project-management-accelerator/)
+- [Technical Troubleshooting Guide](prompts/technical-troubleshooting-guide/)
 
 Many more prompt ideas from the internet:
 
@@ -53,7 +69,6 @@ Implications:
 - Use reasoning models for tasks with 50+ instructions
 
 - For enterprise or complex workflows (150+ instructions), stick to Gemini 2.5 Pro or GPT-o3
-
 
 ## General help prompts
 
