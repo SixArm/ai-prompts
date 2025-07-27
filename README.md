@@ -5,6 +5,7 @@ This is a work in progress to help us learn about prompts for AI.
 Broad prompts:
 
 - [Critical Thinking Stages](prompts/critical-thinking-stages/)
+- [OODA Loop action plan](prompts/ooda-loop-action-plan/)
 - [Natural Writing Style](prompts/natural-writing-style/)
 
 See specific directories for prompts and explanations:
