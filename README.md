@@ -7,11 +7,12 @@ Broad prompts:
 - [Critical Thinking Stages](prompts/critical-thinking-stages/)
 - [Natural Writing Style](prompts/natural-writing-style/)
 
-Strategic-tactical perspectives:
+Strategic-tactical coaching:
 
-- [Wheel of Problem-Solving](prompts/wheel-of-problem-solving/)
-- [DMAIC improvement cycle](prompts/dmaic-improvement-cycle/)
+- [SMART criteria](prompts/smart-criteria/)
 - [OODA Loop action plan](prompts/ooda-loop-action-plan/)
+- [DMAIC improvement cycle](prompts/dmaic-improvement-cycle/)
+- [Wheel of Problem-Solving](prompts/wheel-of-problem-solving/)
 
 See specific directories for prompts and explanations:
 
