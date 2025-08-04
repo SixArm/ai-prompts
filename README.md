@@ -26,6 +26,7 @@ See specific directories for prompts and explanations:
 - [Market Research Deep Dive](prompts/market-research-deep-dive/)
 - [Process Automation Blueprint](prompts/process-automation-blueprint/)
 - [Project Management Accelerator](prompts/project-management-accelerator/)
+- [Software Design Document](prompts/software-design-document/)
 - [Technical Troubleshooting Guide](prompts/technical-troubleshooting-guide/)
 
 Many more prompt ideas from the internet:
