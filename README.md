@@ -21,6 +21,7 @@ See specific directories for prompts and explanations:
 - [Competitive Analysis Matrix](prompts/competitive-analysis-matrix/)
 - [Content Optimization Engine](prompts/content-optimization-engine/)
 - [Customer Insight Generator](prompts/customer-insight-generator/)
+- [Digital Service Standard](prompts/digital-service-standard/)
 - [Enterprise B2B Conversion](prompts/enterprise-b2b-conversion/)
 - [Legal Document Analyzer](prompts/legal-document-analyzer/)
 - [Market Research Deep Dive](prompts/market-research-deep-dive/)
