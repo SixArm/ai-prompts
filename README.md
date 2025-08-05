@@ -113,3 +113,54 @@ Help me see [concept] rather than just understand it. What's the geometric inter
 **The 'Why This Way?' Probe**:
 
 Why is [concept] structured exactly as it is? What would happen if we changed each key component? What constraints forced it into this particular form?
+
+## Plan & Tasks
+
+Imagine the AI assistant as your collaborator on a project. You need to work
+with the AI as if you are doing work together, such as if you are doing pair
+programming, or coaching a teammate.
+
+Write a prompt that clearly includes the current state of the project, what
+needs to be done and any information that might help, that going to be part of
+the task. Don't share too much information because too much will create
+confusion.
+
+Review the implementation plan to see if it makes sense. Otherwise, provide the
+information that might help the AI come up with a better implementation plan.
+
+When you feel confident about the plan, ask the AI if it has any clarifying
+questions. I usually ask "Do you have any clarifying questions for me?" The AI
+may come up with clarifying questions.
+
+Ask the AI to document everything, with all the key findings, context and
+information that might help with the implementation, which will be used as a
+reference while implementing.
+
+Save the output as the file `plan.md`.
+
+Ask the AI to create a file `tasks.md` that will track the tasks during the
+implementation. State that the AI will reference the the file `plan.md` document
+that you created earlier.
+
+After this, create new threads for each step, to start implementing tasks.
+
+As the conversation continues and context gets filled up, the AI may start to
+lose critical information about the task to be implemented. Hit escape and try
+to clear the context and ask it to review progress made so far in the current
+phase, and resume working on the implementation.
+
+Make sure the AI updates the file `tasks.md` with the progress that's made so
+far, and with any context or information that might help when working on the
+next phase.
+
+Don't ask open-ended questions. When things go wrong, let the AI know what went
+wrong and what's expected result.
+
+The key is having two separate documents:
+
+- plan.md is what the AI created based on research and context shared
+
+- tasks.md is actual tasks, for example execution steps, or build phases, or trial runs, etc.
+
+This approach helps you revert to a safe checkpoint with a working solution and
+resume without worrying about losing the progress made.
