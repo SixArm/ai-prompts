@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: Prompts for artificial intelligence interactions
+title: AI prompts for artificial intelligence interactions
 message: >-
   If you use this work and you want to cite it,
   then you can use the metadata from this file.
@@ -13,8 +13,8 @@ authors:
 identifiers:
   - type: url
     value: 'https://github.com/SixArm/promps/'
-    description: Prompts for artificial intelligence interactions
-repository-code: 'https://github.com/SixArm/prompts/'
+    description: AI prompts for artificial intelligence interactions
+repository-code: 'https://github.com/SixArm/ai-prompts/'
 abstract: >-
-  Prompts for artificial intelligence interactions
+  AI prompts for artificial intelligence interactions
 license: See license file

@@ -1,6 +1,6 @@
-# Prompts for AI
+# AI prompts
 
-This is a work in progress to help us learn about prompts for AI.
+This is a work in progress to help us learn about AI prompts.
 
 Broad prompts:
 
