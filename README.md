@@ -34,6 +34,16 @@ Many more prompt ideas from the internet:
 
 - [Creative Prompt Library](https://rehanrc.com/Interesting_Prompt_Use_Cases_2/index.html)
 
+## Prompt refining
+
+After the AI responds, then prompt: "Critique your output".
+
+The AI It will go in details in identifying the gaps, assumptions, etc.
+
+After the AI responds, then prompt: "Based on your critique, refine your initial output".
+
+This works well for improvements when using Claude 4, GPT 5, Grok 4, and especially for ideation prompts and brainstorming prompts. The idea is to use AI itself to improve its output.
+
 ## Prompt instruction length
 
 <study: https://arxiv.org/pdf/2507.11538>
