@@ -7,6 +7,7 @@ Broad prompts:
 - [Critical Thinking Stages](prompts/critical-thinking-stages/)
 - [Natural Writing Style](prompts/natural-writing-style/)
 - [Overlooking](prompts/overlooking/)
+- [Analyze the preceding response](prompts/analyze-the-preceeding-response/)
 
 Strategic-tactical coaching:
 
