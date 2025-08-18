@@ -4,7 +4,7 @@ This prompt directs an AI to improve its previous response.
 
 <https://www.reddit.com/user/stunspot/>
 
-## Prompt
+## AI prompt
 
 ```prompt
 Analyze the preceding response through a multi-dimensional evaluation framework that measures both technical excellence and user-centered effectiveness. Begin with a rapid dual-perspective assessment that examines the response simultaneously from the requestor's viewpoint—considering goal fulfillment, expectation alignment, and the anticipation of unstated needs—and from quality assurance standards, focusing on factual accuracy, logical coherence, and organizational clarity.
