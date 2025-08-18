@@ -28,6 +28,7 @@ See specific directories for prompts and explanations:
 - [Legal Document Analyzer](prompts/legal-document-analyzer/)
 - [Market Research Deep Dive](prompts/market-research-deep-dive/)
 - [Process Automation Blueprint](prompts/process-automation-blueprint/)
+- [Product Strategy Accelerator](prompts/product-strategy-accelerator/)
 - [Project Management Accelerator](prompts/project-management-accelerator/)
 - [Software Design Document](prompts/software-design-document/)
 - [Technical Troubleshooting Guide](prompts/technical-troubleshooting-guide/)
@@ -36,13 +37,37 @@ Many more prompt ideas from the internet:
 
 - [Creative Prompt Library](https://rehanrc.com/Interesting_Prompt_Use_Cases_2/index.html)
 
-## Prompt refining
+## Prompt starter
 
-After the AI responds, then prompt: "Critique your output".
+Try this prompt as a starter:
 
-The AI It will go in details in identifying the gaps, assumptions, etc.
+```prompt
+You are to act as my prompt engineer. 
 
-After the AI responds, then prompt: "Based on your critique, refine your initial output".
+I would like to accomplish: [insert your goal].
+
+Please repeat this back to me in your own words, and ask any clarifying questions. 
+
+I will answer those.
+
+This process will repeat until we both confirm you have an exact understanding.
+
+Only then will you generate the final prompt.
+```
+
+## Prompt critique
+
+If you're not satisfied with any AI response, then try this prompt:
+
+```prompt
+Critique your output.
+```
+
+The AI should respond with details, such as identifying gaps, listing assumptions, etc., and then you try this prompt:
+
+```prompt
+Based on your critique, refine your initial output.
+```
 
 This works well for improvements when using Claude 4, GPT 5, Grok 4, and especially for ideation prompts and brainstorming prompts. The idea is to use AI itself to improve its output.
 
